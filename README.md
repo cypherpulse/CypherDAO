@@ -8,7 +8,7 @@
 
 > **CypherDAO**: Empowering decentralized governance on Celo. A robust, secure, and transparent on-chain governance system for protocol evolution through community consensus.
 
-CypherDAO is a cutting-edge decentralized autonomous organization (DAO) framework designed for the Celo ecosystem. It enables token holders to participate in protocol governance by proposing, voting on, and executing changes via a secure timelock mechanism. Built with industry-leading standards, CypherDAO transforms centralized decision-making into a community-driven process, ensuring transparency, security, and alignment with ecosystem goals.
+CypherDAO is a cutting edge decentralized autonomous organization (DAO) framework designed for the Celo ecosystem. It enables token holders to participate in protocol governance by proposing, voting on, and executing changes via a secure timelock mechanism. Built with industry-leading standards, CypherDAO transforms centralized decision-making into a community-driven process, ensuring transparency, security, and alignment with ecosystem goals.
 
 ## 🚀 Key Highlights
 - **Decentralized Decision-Making**: Token-based voting power with delegation capabilities.
