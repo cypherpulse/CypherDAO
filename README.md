@@ -75,13 +75,13 @@ CypherDAO follows a layered architecture separating concerns for robustness and 
 ### High-Level Architecture Diagram
 ```mermaid
 graph TD
-    A[Token Holders] --> B[CypherDAO Token (CYDAO)]
-    B --> C[Governor Contract]
-    C --> D[Timelock Controller]
-    D --> E[Governed Contracts]
-    F[Proposals] --> C
-    G[Votes] --> C
-    H[Execution] --> D
+    A["Token Holders"] --> B["CypherDAO Token (CYDAO)"]
+    B --> C["Governor Contract"]
+    C --> D["Timelock Controller"]
+    D --> E["Governed Contracts"]
+    F["Proposals"] --> C
+    G["Votes"] --> C
+    H["Execution"] --> D
 ```
 
 - **Layer 1: Token Layer** - Manages voting power and delegation.
